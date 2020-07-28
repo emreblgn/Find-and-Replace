@@ -13,6 +13,23 @@ String find and replace program using Boyer-Moore Horspool algorithm programmed 
 3. Report.
    - Write number of the words changed and process time to screen.
    
+**Sample Inputs and Outputs:**
+
+**Input:**
+
+![](/images/input.png)
+
+**Process-1 and Output-1 (Case sensitive off)**
+
+![](/images/process-1.png)
+![](/images/output-1.png)
+
+**Process-2 and Output-2 (Case sensitive on)**
+
+![](/images/process-2.png)
+![](/images/output-2.png)
+
+
   
    
 
